@@ -1,2 +1,2 @@
-# NLP-specialization
-A NLP Specialization - 4 course series of Deeplearningai that I am doing from Coursera
+# NLP
+NLP Lessons that I am teaching in course "Large Language Models with Applications" 
